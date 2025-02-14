@@ -282,7 +282,7 @@ msgid "Address to access local relay bridge"
 msgstr "接入本地中继桥的地址"
 
 msgid "Administration"
-msgstr "管理权"
+msgstr "管理设置"
 
 msgid "Advanced Settings"
 msgstr "高级设置"
@@ -1212,7 +1212,7 @@ msgid "Finish"
 msgstr "完成"
 
 msgid "Firewall"
-msgstr "防火墙"
+msgstr "网络防护"
 
 msgid "Firewall Mark"
 msgstr "防火墙标识"
@@ -2027,10 +2027,10 @@ msgid "Mount Entry"
 msgstr "挂载项目"
 
 msgid "Mount Point"
-msgstr "挂载点"
+msgstr "挂载硬盘"
 
 msgid "Mount Points"
-msgstr "挂载点"
+msgstr "挂载硬盘"
 
 msgid "Mount Points - Mount Entry"
 msgstr "挂载点 - 存储区"
@@ -2050,7 +2050,7 @@ msgid "Mount options"
 msgstr "挂载选项"
 
 msgid "Mount point"
-msgstr "挂载点"
+msgstr "挂载硬盘"
 
 msgid "Mount swap not specifically configured"
 msgstr "自动挂载未专门配置的 swap 分区"
@@ -2500,7 +2500,7 @@ msgid "Policy"
 msgstr "策略"
 
 msgid "Port"
-msgstr "端口"
+msgstr "网口"
 
 msgid "Port status:"
 msgstr "端口状态："
@@ -2689,7 +2689,7 @@ msgid "Rebind protection"
 msgstr "重绑定保护"
 
 msgid "Reboot"
-msgstr "重启"
+msgstr "立即重启"
 
 msgid "Rebooting..."
 msgstr "重启中..."
@@ -3000,7 +3000,7 @@ msgid "Slot time"
 msgstr "时隙"
 
 msgid "Software"
-msgstr "软件包"
+msgstr "软件中心"
 
 msgid "Software VLAN"
 msgstr "软件 VLAN"
@@ -3070,7 +3070,7 @@ msgid "Start priority"
 msgstr "启动优先级"
 
 msgid "Startup"
-msgstr "启动项"
+msgstr "开机启动"
 
 msgid "Static IPv4 Routes"
 msgstr "静态 IPv4 路由"
@@ -3096,7 +3096,7 @@ msgstr ""
 "接，并且接口须为非动态配置。"
 
 msgid "Status"
-msgstr "状态"
+msgstr "运行状态"
 
 msgid "Stop"
 msgstr "关闭"
