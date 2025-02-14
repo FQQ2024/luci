@@ -773,7 +773,7 @@ msgid "DHCP Server"
 msgstr "DHCP 服务器"
 
 msgid "DHCP and DNS"
-msgstr "DHCP/DNS"
+msgstr "DNS解析"
 
 msgid "DHCP client"
 msgstr "DHCP 客户端"
@@ -1412,7 +1412,7 @@ msgid "Host-Uniq tag content"
 msgstr "Host-Uniq 标签内容"
 
 msgid "Hostname"
-msgstr "主机名"
+msgstr "机名"
 
 msgid "Hostname to send when requesting DHCP"
 msgstr "请求 DHCP 时发送的主机名"
@@ -1635,7 +1635,7 @@ msgid "Installed packages"
 msgstr "已安装软件包"
 
 msgid "Interface"
-msgstr "接口"
+msgstr "内部网口"
 
 msgid "Interface %q device auto-migrated from %q to %q."
 msgstr "接口设备 %q 从 %q 自动迁移到了 %q。"
@@ -3148,7 +3148,7 @@ msgid "Synchronizing..."
 msgstr "同步中..."
 
 msgid "System"
-msgstr "系统"
+msgstr "系统设置"
 
 msgid "System Log"
 msgstr "系统日志"
