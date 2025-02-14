@@ -53,7 +53,7 @@ msgid "Protocol"
 msgstr "协议"
 
 msgid "QoS"
-msgstr "QoS"
+msgstr "IP限速"
 
 msgid "Quality of Service"
 msgstr "服务质量（QoS）"
