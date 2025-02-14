@@ -2841,7 +2841,7 @@ msgid "Router Password"
 msgstr "主机密码"
 
 msgid "Routes"
-msgstr "路由表"
+msgstr "路由状态"
 
 msgid ""
 "Routes specify over which interface and gateway a certain host or network "
