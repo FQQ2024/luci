@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Poedit 2.3.1\n"
 
 msgid "Web Admin"
-msgstr "Web 管理"
+msgstr "网页管理"
 
 msgid "Web Admin Settings"
 msgstr "Web 管理页面设置"
